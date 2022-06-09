@@ -1,7 +1,9 @@
 # FinDev
 
 [![Build](https://github.com/Shanmukh-Nath/FinDev-master/actions/workflows/build.yml/badge.svg)](https://github.com/Shanmukh-Nath/FinDev-master/actions/workflows/build.yml)
+
 ![Stack](/.idea/icon.png)
+
 FinDev is an Android application that lets you browse [stackoverflow.com](https://stackoverflow.com) and other Stack Exchange sites. It is powered by the [Stack Exchange API](https://api.stackexchange.com/)
 
 ### Download
